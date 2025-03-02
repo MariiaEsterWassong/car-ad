@@ -1,10 +1,10 @@
-### Car Advertisement Data Dashboard
+# Car Advertisement Data Dashboard
 
-# Description
+## Description
 
 This project is a web application that provides an interactive dashboard for analyzing car advertisement data. The application is built using Streamlit and allows users to explore various aspects of the dataset, including price distributions, odometer readings, fuel types, and car conditions.
 
-# Features
+## Features
 
 - Interactive histograms and scatter plots for data visualization.
 
@@ -12,7 +12,7 @@ This project is a web application that provides an interactive dashboard for ana
 
 - Dynamic updates based on user input.
 
-## Technologies Used
+### Technologies Used
 
 - **Python**
 
@@ -22,7 +22,7 @@ This project is a web application that provides an interactive dashboard for ana
 
 - **plotly.express** and **altair** for visualizations
 
-## Dataset
+### Dataset
 
 The dataset contains information about car advertisements, including:
 
@@ -42,7 +42,7 @@ The dataset contains information about car advertisements, including:
 
 - Listing duration
 
-## Installation and Setup
+### Installation and Setup
 
 1. Clone the repository:
 ```
@@ -57,12 +57,12 @@ cd car-ad
 
 `streamlit run app.py`
 
-## Deployment
+### Deployment
 
 The application is deployed on Render. You can access it here:  
-[Live Application](https://your-app-name.onrender.com)
+[Live Application](https://car-ad.onrender.com)
 
-## Usage
+### Usage
 
 - Adjust sliders and checkboxes to filter data dynamically.
 
@@ -70,7 +70,7 @@ The application is deployed on Render. You can access it here:
 
 - Analyze trends and relationships between different car attributes.
 
-## Future Improvements
+### Future Improvements
 
 - Add more filtering options.
 
@@ -78,10 +78,10 @@ The application is deployed on Render. You can access it here:
 
 - Implement advanced statistical insights.
 
-## License
+### License
 
 This project is open-source and available under the MIT License.
 
-# Contributors
+## Contributors
 
 Developed by Mariia Ester Wassong
