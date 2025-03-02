@@ -45,10 +45,10 @@ The dataset contains information about car advertisements, including:
 ## Installation and Setup
 
 1. Clone the repository:
-
-```git clone https://github.com/MariiaEsterWassong/car-ad.git
-cd car-ad```
-
+```
+git clone https://github.com/MariiaEsterWassong/car-ad.git
+cd car-ad
+```
 2. Install dependencies:
 
 `pip install -r requirements.txt`
